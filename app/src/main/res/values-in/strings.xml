@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">DCoffee App</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="name">Nama</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="titleLoginPage">Selamat Datang di Story App</string>
+    <string name="messageLoginPage">Silahkan Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginAction"><u>Masuk</u></string>
+    <string name="dontHaveAccount">Belum Punya Akun?</string>
+    <string name="registerAction"><u>Daftar</u></string>
+    <string name="titleRegisterPage">Silakan Isi Data Diri Anda</string>
+    <string name="nameHint">Nama</string>
+    <string name="alreadyHaveAnAccount">Sudah Punya Akun?</string>
+    <string name="nameEmptyError">Silahkan Masukkan Nama Anda</string>
+    <string name="emailEmptyError">Silahkan Masukkan Email Anda</string>
+    <string name="passwordEmptyError">Silahkan Masukkan Password Anda</string>
+    <string name="emailFormatError">Email Salah</string>
+    <string name="passwordLengthError">Min. 6 karakter</string>
+    <string name="alertTitle">Berhasil</string>
+    <string name="alertPositive">Selanjutnya</string>
+    <string name="failureMessage">Gagal Mendapatkan Respon</string>
+    <string name="alertCreateAccount">Akun Berhasil Dibuat</string>
+    <string name="menuLogout">Keluar</string>
+    <string name="alertTittleLogout">Keluar</string>
+    <string name="alertMassageLogout">Apakah Anda Yakin Ingin Keluar?</string>
+    <string name="yesLogout">Iya</string>
+    <string name="cancelLogout">Batal</string>
+    <string name="choosePictFirst">Silahkan Pilih Gambar Terlebih Dahulu</string>
+</resources>
