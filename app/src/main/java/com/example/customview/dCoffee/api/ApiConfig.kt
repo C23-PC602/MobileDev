@@ -14,7 +14,7 @@ class ApiConfig {
                 .addInterceptor(loggingInterceptor)
                 .build()
             val retrofit = Retrofit.Builder()
-                .baseUrl("https://story-api.dicoding.dev/v1/")
+                .baseUrl("https://cloud-computing-eta.vercel.app/register")
                 .addConverterFactory(GsonConverterFactory.create())
                 .client(client)
                 .build()
