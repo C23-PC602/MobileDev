@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">DCoffee App</string>
+    <string name="login">Login</string>
+    <string name="register">Register</string>
+    <string name="name">Name</string>
+    <string name="emailHint">Email</string>
+    <string name="passwordHint">Password</string>
+    <string name="titleLoginPage">Welcome to DCoffee App</string>
+    <string name="messageLoginPage">Lets login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="loginAction"><u>Login</u></string>
+    <string name="dontHaveAccount">"Don't Have An Account Yet?"</string>
+    <string name="registerAction"><u>Register</u></string>
+    <string name="titleRegisterPage">Please Fill In Your Personal Data</string>
+    <string name="nameHint">Name</string>
+    <string name="alreadyHaveAnAccount">Already Have An Account?</string>
+    <string name="nameEmptyError">Please Enter Your Name</string>
+    <string name="emailEmptyError">Please Enter Your Email</string>
+    <string name="passwordEmptyError">Please Enter Your Password</string>
+    <string name="emailFormatError">Incorrect Email</string>
+    <string name="passwordLengthError">Min. 8 characters</string>
+    <string name="alertTitle">Done</string>
+    <string name="alertPositive">Next</string>
+    <string name="failureMessage">Failed To Get Response</string>
+    <string name="alertCreateAccount">Account Created Successfully</string>
+    <string name="failedTakePicture">Failed To Take A Picture</string>
+    <string name="failedToOpenCamera">Failed To Open Camera</string>
+    <string name="storyLoadedSuccess">Story Loaded Successfully</string>
+    <string name="accessDenied">Access Denied</string>
+    <string name="choosePictFirst">Please Choose A Picture First</string>
+    <string name="titleCamera">Camera</string>
+    <string name="titleGallery">Gallery</string>
+    <string name="descriptionHint">Description</string>
+    <string name="upload">Upload</string>
+    <string name="menuTranslate">Translate</string>
+    <string name="menuLogout">Logout</string>
+    <string name="noDescription">Please Fill In The Description First</string>
+    <string name="storyCreated">Story Created Successfully</string>
+    <string name="failReadImg">Failed To Read Image</string>
+    <string name="firstLetter">A</string>
+    <string name="username">Username</string>
+    <string name="date">01-01-2021</string>
+    <string name="alertTittleLogout">Log Out</string>
+    <string name="alertMassageLogout">Are You Sure to Quit the Story App?</string>
+    <string name="yesLogout">Yes</string>
+    <string name="cancelLogout">Cancel</string>
+</resources>
