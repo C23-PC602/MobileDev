@@ -1,4 +1,4 @@
-package com.example.customview.dcoffee.model
+package com.example.customview.dcoffee.adapter
 
 import android.os.Parcelable
 import kotlinx.android.parcel.Parcelize

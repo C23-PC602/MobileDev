@@ -12,7 +12,7 @@
         android:layout_height="wrap_content"
         android:layout_marginEnd="25dp"
         android:layout_marginBottom="32dp"
-        android:backgroundTint="@color/abu"
+        android:backgroundTint="@color/coffee"
         android:clickable="true"
         android:focusable="true"
         app:layout_constraintBottom_toBottomOf="parent"

@@ -2,7 +2,11 @@ package com.example.customview.dcoffee.model
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider
+import com.example.customview.dcoffee.detect.DetectedCoffeeViewModel
+import com.example.customview.dcoffee.login.LoginViewModel
+import com.example.customview.dcoffee.main.MainViewModel
 import com.example.customview.dcoffee.preferences.UserPreferences
+import com.example.customview.dcoffee.register.RegisterViewModel
 
 class ViewModelFactory(private val pref: UserPreferences) : ViewModelProvider.NewInstanceFactory() {
     @Suppress("UNCHECKED_CAST")

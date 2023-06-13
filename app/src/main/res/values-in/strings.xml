@@ -6,7 +6,6 @@
     <string name="name">Nama</string>
     <string name="emailHint">Email</string>
     <string name="passwordHint">Password</string>
-    <string name="titleLoginPage">Selamat Datang di Story App</string>
     <string name="messageLoginPage">Silahkan Login</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
@@ -19,15 +18,15 @@
     <string name="nameEmptyError">Silahkan Masukkan Nama Anda</string>
     <string name="emailEmptyError">Silahkan Masukkan Email Anda</string>
     <string name="passwordEmptyError">Silahkan Masukkan Password Anda</string>
-    <string name="emailFormatError">Email Salah</string>
-    <string name="passwordLengthError">Min. 6 karakter</string>
+    <string name="emailFormatError">Email Atau Password Anda Salah</string>
+    <string name="passwordLengthError">Min. 8 karakter</string>
     <string name="alertTitle">Berhasil</string>
     <string name="alertPositive">Selanjutnya</string>
     <string name="failureMessage">Gagal Mendapatkan Respon</string>
     <string name="alertCreateAccount">Akun Berhasil Dibuat</string>
     <string name="failedTakePicture">Gagal Mengambil Gambar</string>
     <string name="failedToOpenCamera">Gagal Membuka Kamera</string>
-    <string name="storyLoadedSuccess">Cerita Berhasil Dimuat</string>
+    <string name="coffeeLoadedSuccess">Buah Kopi Berhasil Dimuat</string>
     <string name="accessDenied">Akses Gagal</string>
     <string name="choosePictFirst">Silahkan Pilih Gambar Terlebih Dahulu</string>
     <string name="titleCamera">Kamera</string>
@@ -37,7 +36,7 @@
     <string name="menuTranslate">Translate</string>
     <string name="menuLogout">Keluar</string>
     <string name="noDescription">Silahkan Isi Deskripsi Terlebih Dahulu</string>
-    <string name="storyCreated">Cerita Berhasil Dibuat</string>
+    <string name="detectCreated">Buah Kopi Berhasil Dideteksi</string>
     <string name="failReadImg">Gagal Membaca Gambar</string>
     <string name="firstLetter">A</string>
     <string name="username">Nama Pengguna</string>

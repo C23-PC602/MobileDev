@@ -17,14 +17,13 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.customview.dcoffee.R
-import com.example.customview.dcoffee.model.CoffeeModel
+import com.example.customview.dcoffee.adapter.CoffeeModel
 import com.example.customview.dcoffee.model.ViewModelFactory
 import com.example.customview.dcoffee.preferences.UserPreferences
 import com.example.customview.dcoffee.adapter.CoffeeAdapter
 import com.example.customview.dcoffee.databinding.ActivityMainBinding
 import com.example.customview.dcoffee.detect.DetectedCoffee
 import com.example.customview.dcoffee.login.LoginActivity
-import com.example.customview.dcoffee.model.MainViewModel
 
 class MainActivity : AppCompatActivity() {
     private val Context.dataStore: DataStore<Preferences> by preferencesDataStore(name = "settings")
@@ -79,7 +78,7 @@ class MainActivity : AppCompatActivity() {
         mainViewModel.errorMessage.observe(this) {
             when (it) {
                 "Story Loaded Successfully" -> {
-                    Toast.makeText(this@MainActivity, getString(R.string.storyLoadedSuccess), Toast.LENGTH_SHORT).show()
+                    Toast.makeText(this@MainActivity, getString(R.string.coffeeLoadedSuccess), Toast.LENGTH_SHORT).show()
                 }
                 "onFailure" -> {
                     Toast.makeText(this@MainActivity, getString(R.string.failureMessage), Toast.LENGTH_SHORT).show()

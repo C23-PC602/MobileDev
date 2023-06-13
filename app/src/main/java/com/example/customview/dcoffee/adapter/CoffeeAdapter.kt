@@ -8,7 +8,6 @@ import androidx.core.app.ActivityOptionsCompat
 import androidx.recyclerview.widget.RecyclerView
 import com.bumptech.glide.Glide
 import com.example.customview.dcoffee.databinding.ListItemCoffeeBinding
-import com.example.customview.dcoffee.model.CoffeeModel
 import com.example.customview.dcoffee.detail_coffee.DetailCoffeeActivity
 
 class CoffeeAdapter(private val listStory: ArrayList<CoffeeModel>) : RecyclerView.Adapter<CoffeeAdapter.ListViewHolder>() {

@@ -4,7 +4,7 @@ import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import com.bumptech.glide.Glide
 import com.example.customview.dcoffee.databinding.ActivityDetailCoffeeBinding
-import com.example.customview.dcoffee.model.CoffeeModel
+import com.example.customview.dcoffee.adapter.CoffeeModel
 
 @Suppress("DEPRECATION")
 class DetailCoffeeActivity : AppCompatActivity() {

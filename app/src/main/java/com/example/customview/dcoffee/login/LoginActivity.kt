@@ -18,7 +18,6 @@ import com.example.customview.dcoffee.model.ViewModelFactory
 import com.example.customview.dcoffee.preferences.UserPreferences
 import com.example.customview.dcoffee.databinding.ActivityLoginBinding
 import com.example.customview.dcoffee.main.MainActivity
-import com.example.customview.dcoffee.model.LoginViewModel
 import com.example.customview.dcoffee.register.RegisterActivity
 
 class LoginActivity : AppCompatActivity() {

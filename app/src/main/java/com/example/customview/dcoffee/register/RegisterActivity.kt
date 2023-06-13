@@ -19,7 +19,6 @@ import com.example.customview.dcoffee.preferences.UserPreferences
 import com.example.customview.dcoffee.response.RegisterResult
 import com.example.customview.dcoffee.databinding.ActivityRegisterBinding
 import com.example.customview.dcoffee.login.LoginActivity
-import com.example.customview.dcoffee.model.RegisterViewModel
 
 class RegisterActivity : AppCompatActivity() {
     private val Context.dataStore: DataStore<Preferences> by preferencesDataStore(name = "settings")

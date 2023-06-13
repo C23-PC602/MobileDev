@@ -6,7 +6,6 @@
     <string name="name">Name</string>
     <string name="emailHint">Email</string>
     <string name="passwordHint">Password</string>
-    <string name="titleLoginPage">Welcome to DCoffee App</string>
     <string name="messageLoginPage">Lets login</string>
     <string name="email">Email</string>
     <string name="password">Password</string>
@@ -27,7 +26,7 @@
     <string name="alertCreateAccount">Account Created Successfully</string>
     <string name="failedTakePicture">Failed To Take A Picture</string>
     <string name="failedToOpenCamera">Failed To Open Camera</string>
-    <string name="storyLoadedSuccess">Story Loaded Successfully</string>
+    <string name="coffeeLoadedSuccess">Story Loaded Successfully</string>
     <string name="accessDenied">Access Denied</string>
     <string name="choosePictFirst">Please Choose A Picture First</string>
     <string name="titleCamera">Camera</string>
@@ -37,13 +36,13 @@
     <string name="menuTranslate">Translate</string>
     <string name="menuLogout">Logout</string>
     <string name="noDescription">Please Fill In The Description First</string>
-    <string name="storyCreated">Story Created Successfully</string>
+    <string name="detectCreated">Story Created Successfully</string>
     <string name="failReadImg">Failed To Read Image</string>
     <string name="firstLetter">A</string>
     <string name="username">Username</string>
     <string name="date">01-01-2021</string>
     <string name="alertTittleLogout">Log Out</string>
-    <string name="alertMassageLogout">Are You Sure to Quit the Story App?</string>
+    <string name="alertMassageLogout">Are You Sure to Quit the DCoffee App?</string>
     <string name="yesLogout">Yes</string>
     <string name="cancelLogout">Cancel</string>
 </resources>

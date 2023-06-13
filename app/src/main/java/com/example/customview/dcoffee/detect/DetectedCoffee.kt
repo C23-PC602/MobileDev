@@ -25,7 +25,6 @@ import com.example.customview.dcoffee.camera.CameraActivity
 import com.example.customview.dcoffee.databinding.ActivityAddCoffeeBinding
 import com.example.customview.dcoffee.login.LoginActivity
 import com.example.customview.dcoffee.main.MainActivity
-import com.example.customview.dcoffee.model.DetectedCoffeeViewModel
 import com.example.customview.dcoffee.utils.reduceFileImage
 import com.example.customview.dcoffee.utils.rotateFile
 import okhttp3.MediaType.Companion.toMediaType
@@ -78,7 +77,7 @@ class DetectedCoffee : AppCompatActivity() {
         addViewModel.errorMessage.observe(this) {
             when (it) {
                 "Story created successfully" -> {
-                    Toast.makeText(this@DetectedCoffee, getString(R.string.storyCreated),
+                    Toast.makeText(this@DetectedCoffee, getString(R.string.detectCreated),
                         Toast.LENGTH_SHORT).show()
                 }
                 "onFailure" -> {
